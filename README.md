@@ -16,7 +16,7 @@ Am Ende ist ein richtig komfortables Filtersystem herausgekommen. Wenn eine Kara
 
 Ich bin super zufrieden mit dem Ergebnis. Und weil’s mir so gefällt, hab ich ein kleines Video von meinem Wasserfilter im Einsatz gedreht 🙂
 
-![Video](https://youtu.be/p-oMvHNbZ5M)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-oMvHNbZ5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Für alle, die an den technischen Details interessiert gibt’s hier weitere Infos. Das Arduino-Programm für die Steuerung gibt’s hier und den Aufbau der Steuerung seht ihr auf diesen Bildern.
 

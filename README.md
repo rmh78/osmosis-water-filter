@@ -18,7 +18,7 @@ Ich bin super zufrieden mit dem Ergebnis. Und weil’s mir so gefällt, hab ich 
 
 <https://youtu.be/p-oMvHNbZ5M>
 
-Für alle, die an den technischen Details interessiert gibt’s hier weitere Infos. Das Arduino-Programm für die Steuerung gibt’s hier und den Aufbau der Steuerung seht ihr auf diesen Bildern.
+Für alle, die an den technischen Details interessiert gibt’s hier weitere Infos. Das Arduino-Programm für die Steuerung liegt hier im Repository [Waage-2.0.ino](Waage-2.0.ino) und den Aufbau der Steuerung seht ihr auf diesen Bildern.
 
 ![Arduino](./docs/arduino_wasserfilter_2.jpg)
 
